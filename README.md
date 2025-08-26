@@ -27,7 +27,8 @@ Interactive Charts: Includes bar charts, donut charts, and line graphs that make
 5. Interactive Dasboard
 
 ## Dashboard
-- <a href="[https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Screenshot%202025-01-24%20185724.png](https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Dashboard.png)">Dashboard</a>
+- <a href="https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Dashboard.png">Dashboard</a>
 
 ## Full Project
-- <a href="[https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Bike_Sales_Project.xlsx](https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Shopee.pbix)">FullProject</a>
+
+- <a href="https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Shopee.pbix">FullProject</a> ## Don't copy If you want to learn
