@@ -25,10 +25,9 @@ Interactive Charts: Includes bar charts, donut charts, and line graphs that make
 3. Creating Measures
 4. Using DAX queries
 5. Interactive Dasboard
-   https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Dashboard.png
 
 ## Dashboard
-- <a href="https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Dashboard.png">Dashboard</a>
+- <a href="http<img width="1538" height="862" alt="Dashboard" src="https://github.com/user-attachments/assets/da88e5e9-32bf-4166-81cb-290e99c94df8" />
 
 ## Full Project
 - <a href="https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Shopee.pbix">FullProject</a> ## Don't copy If you want to learn
