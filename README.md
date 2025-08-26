@@ -8,7 +8,7 @@ To offer a user-friendly and intuitive interface for business stakeholders to ma
 To find the profit and also how much discound we provided but it clear the stock.
 
 ## Dataset used
-- <a href="https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dataset.xlsx">Dataset</a>
+- <a href="https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Shopee%20Data.csv">Dataset</a>
 
 ## Key Highlight:
 Data Filtering: Filter the data based on various criteria like region, payment method, and category to gain detailed insights into sales patterns.
@@ -24,11 +24,10 @@ Interactive Charts: Includes bar charts, donut charts, and line graphs that make
 2. Visualazing data
 3. Creating Measures
 4. Using DAX queries
-5. Interactive Dasboard - <a href="https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Screenshot%202025-01-24%20185724.png">Dashboard</a>
-
+5. Interactive Dasboard
 
 ## Dashboard
-![Screenshot 2025-01-24 185724](https://github.com/user-attachments/assets/437d325e-a6c5-4de0-aaa6-efbb72adeedf)
+- <a href="[https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Screenshot%202025-01-24%20185724.png](https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Dashboard.png)">Dashboard</a>
 
 ## Full Project
-- <a href="https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Bike_Sales_Project.xlsx">FullProject</a>
+- <a href="[https://github.com/MADHAV-KUM4R/Bike-Sales-Dashboard/blob/main/Bike_Sales_Project.xlsx](https://github.com/MADHAV-KUM4R/Shopee-11.11-Sales-Business-Analysis/blob/main/Shopee.pbix)">FullProject</a>
